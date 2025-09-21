@@ -2,8 +2,8 @@
 
 ## 🚀 Sobre mim
 Coronel da PMDF | Tech Lead | Empreendedor | Entusiasta em Inteligência Artificial  
-Atuo há mais de 30 anos como Oficial da Polícia Militar do DF, com experiência estratégica e operacional em gestão de projetos (PMBOK), processos (BPM), pessoas (RH) e sistemas (SQLServer, Spring, PHP).  
-Sou também empreendedor à frente da **OlmedaTech**, desenvolvendo soluções digitais, automações e sistemas sob medida para empresas e terceiro setor.
+Atuo há mais de 30 anos como Oficial da Polícia Militar do DF (em final de carreira), com experiência estratégica e operacional em gestão de projetos (PMBOK), processos (BPM), pessoas (RH) e sistemas (SQLServer, Spring, PHP).  
+Sou também desenvolvedor fullstack junto à **OlmedaTech**, empresa parceira, desenvolvendo soluções digitais, automações e sistemas sob medida para empresas e terceiro setor.
 
 ## 🔥 Propósito
 Acredito no poder de unir **inteligência humana e artificial** para criar soluções inovadoras e transformar negócios. Minha missão: acelerar a jornada digital de equipes e organizações, promovendo eficiência com ética, colaboração e resultados reais.
@@ -43,7 +43,7 @@ Acredito no poder de unir **inteligência humana e artificial** para criar solu�
 
 ## 👥 Vamos conversar?
 - [LinkedIn](https://www.linkedin.com/in/emerson-cardoso-%E2%99%BE%EF%B8%8F-56106753/)
-- [Email profissional](mailto:emerson.cardoso@alcgestao.com.br)
+- [Email profissional](mailto:emerson.cardoso@olmedatech.com)
 
 ---
 *Unindo estratégia, experiência e inovação para acelerar negócios e pessoas.*
