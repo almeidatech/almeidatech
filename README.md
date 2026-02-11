@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Emerson Cardoso
 
 ## 🚀 Sobre mim
-Coronel da PMDF(em final de carreira) | Tech Lead | Empreendedor | Entusiasta em Inteligência Artificial  
+Coronel da PMDF aposentado | Tech Lead | Empreendedor | Entusiasta em Inteligência Artificial  
 Atuo há mais de 30 anos como Oficial da Polícia Militar do DF (em final de carreira), com experiência estratégica e operacional em gestão de projetos (PMBOK), processos (BPM), pessoas (RH) e sistemas (SQLServer, Spring, PHP).  
 Sou também desenvolvedor fullstack junto à **OlmedaTech**, empresa parceira, desenvolvendo soluções digitais, automações e sistemas sob medida para empresas e terceiro setor.
 
