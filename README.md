@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Emerson Cardoso
+# Emerson Cardoso
 
 ## 🚀 Sobre mim
 Coronel da PMDF aposentado | Tech Lead | Empreendedor | Entusiasta em Inteligência Artificial  
